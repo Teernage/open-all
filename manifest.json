@@ -3,10 +3,13 @@
   "name": "批量打开URL",
   "version": "1.0",
   "description": "输入多个URL，一键在新窗口中打开",
-  "permissions": [
-    "tabs",
-    "storage"
-  ],
+  "permissions": ["tabs", "storage"],
+  "icons": {
+    "16": "icon/icon16.png",
+    "32": "icon/icon32.png",
+    "48": "icon/icon48.png",
+    "128": "icon/icon128.png"
+  },
   "action": {
     "default_popup": "popup.html",
     "default_title": "批量打开URL"
