@@ -1,6 +1,6 @@
 # 隐私政策 / Privacy Policy
 
-**最后更新日期 / Last Updated:** 2024 年 11 月
+**最后更新日期 / Last Updated:** 2025 年 11 月
 
 ---
 
@@ -137,5 +137,3 @@ If you have any questions or suggestions about this privacy policy, please conta
 
 - GitHub Issues: https://github.com/Teernage/open-all/issues
 - GitHub Repository: https://github.com/Teernage/open-all
-
-
