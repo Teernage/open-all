@@ -3,7 +3,7 @@
   "name": "批量打开URL",
   "version": "1.0",
   "description": "输入多个URL，一键在新窗口中打开",
-  "permissions": ["tabs", "storage"],
+  "permissions": ["storage"],
   "icons": {
     "16": "icon/icon16.png",
     "32": "icon/icon32.png",
